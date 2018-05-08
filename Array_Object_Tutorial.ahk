@@ -28,7 +28,7 @@ Msgbox % List[1] ; 							<--- Retrieves the first (number 1) item in the array,
 
 ; # or like this:
 
-Msgbox % List.1								<--- Retrieves the first (number 1) item in the array, "Bananas". "List" is the array, and 1 is the list item number (after the ".")
+Msgbox % List.1	;							<--- Retrieves the first (number 1) item in the array, "Bananas". "List" is the array, and 1 is the list item number (after the ".")
 
 ; # Using this knowledge, we can recreate the list like this:
 
