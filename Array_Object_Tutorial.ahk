@@ -147,7 +147,7 @@ Cat.Delete("Claws") ;							<--- Deletes the key and value pair of "Claws". Howe
 
 ; # Instead of InsertAt() you can just set the object variable, like this:
 
-Cat.Nose := "Pink"							<--- Gives the Cat-object a new key ("Nose") with the value "Pink". It will show up in a for-loop.
+Cat.Nose := "Pink" ;							<--- Gives the Cat-object a new key ("Nose") with the value "Pink". It will show up in a for-loop.
 
 ; # That's it for now. Hopefully I might have time to delve further into classes sometime soon.
 ; # Meanwhile, here's a nice script from user "kon" found at the AHK-forums, to show what can be done relatively easy with arrays.
